@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WEIRDOS-1</string>
+    <string-array name="name">
+        <item>Adyasha</item>
+        <item>Ankan</item>
+        <item>Ankush</item>
+        <item>Ashish</item>
+        <item>Binayak</item>
+        <item>Chandrashekhar</item>
+        <item>Sonakshy</item>
+    </string-array>
+    <string-array name="voice">
+        <item>Tap here for voice</item>
+        <item>Tap here for voice</item>
+        <item>Tap here for voice</item>
+        <item>Tap here for voice</item>
+        <item>Tap here for voice</item>
+        <item>Tap here for voice</item>
+        <item>Tap here for voice</item>
+    </string-array>
+</resources>

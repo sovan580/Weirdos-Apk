@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="adu">#7E1940</color>
+    <color name="anakan">#0080ff</color>
+    <color name="ankush">#000080</color>
+    <color name="asis">#dc143c</color>
+    <color name="binu">#000000</color>
+    <color name="chandu">#ffff00</color>
+    <color name="sona">#0000ff</color>
+</resources>
